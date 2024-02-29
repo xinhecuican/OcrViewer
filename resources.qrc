@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>ListItem.qss</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>translate.png</file>
+        <file>copy.png</file>
+    </qresource>
+</RCC>
